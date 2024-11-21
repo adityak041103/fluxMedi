@@ -38,7 +38,8 @@ body {
 }
 @media (max-width: 460px) {
   .logo {
-    width: 100%;
+    width: 100px; 
+    height: auto;  
   }
 }
 .form-title{
